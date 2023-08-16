@@ -8,6 +8,7 @@ module.exports = {
         }
     },
     themeConfig: {
+        lastUpdadad: '上次更新',
         subSidebar: 'auto',
         nav: [
             { text: '首页', link: '/' },
